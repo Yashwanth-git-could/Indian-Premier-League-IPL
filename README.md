@@ -1,3 +1,7 @@
+[Click here to view the Power BI report "Complete Cricket Analysis of Batting, Bowling, Fielding](https://app.powerbi.com/reportEmbed?reportId=803f0cdc-a545-4b6d-a6ea-ce91aa0d4013&autoAuth=true&ctid=b637c4f6-57b7-44dc-bce4-fec0cd202460)
+
+[Click here to view the Power BI report of IPL Teams](https://app.powerbi.com/reportEmbed?reportId=d0d2c8d6-2c4f-438b-8a47-e6eb4210ee79&autoAuth=true&ctid=b637c4f6-57b7-44dc-bce4-fec0cd202460)
+
 ## Title
 # Beyond the Boundaries: A Data-Driven Look into IPL Players and Teams
 
